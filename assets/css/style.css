@@ -1,10 +1,8 @@
 
 *, html, body {
+    background: linear-gradient(179deg, rgba(63,187,133,1) 0%, rgba(0,58,93,1) 85%);
+    background: rgb(63,187,133);
     font-family: 'Courier New', Courier, monospace;
-    color: white;
-}
-
-body{
-    text-align: center !important;
-    background-color: #fafafa;
+    height: 100vh;
+    width: 100vw;
 }
